@@ -1,0 +1,16 @@
+{
+  "name": "pg-parameterized",
+  "version": "0.0.1",
+  "description": "node-pg plugin to add named parameter support",
+  "keywords": [
+    "postgres",
+    "pg"
+  ],
+  "author": "Dan Harbin <dan.harbin@civitaslearning.com>",
+  "main": "./lib",
+  "dependencies": {
+    "pg": "~0.12.3",
+    "underscore": "~1.4.4"
+  },
+  "license": "MIT"
+}
