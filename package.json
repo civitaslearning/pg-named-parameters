@@ -1,5 +1,5 @@
 {
-  "name": "pg-parameterized",
+  "name": "pg-named-parameters",
   "version": "0.0.1",
   "description": "node-pg plugin to add named parameter support",
   "contributors": [
@@ -17,7 +17,7 @@
   "main": "./lib",
   "repository": {
   	"type": "git",
-  	"url": "https://github.com/civitaslearning/pg-parameterized.git"
+  	"url": "https://github.com/civitaslearning/pg-named-parameters.git"
   },
   "dependencies": {
     "pg": "~0.12.3",
