@@ -20,7 +20,7 @@
   	"url": "https://github.com/civitaslearning/pg-named-parameters.git"
   },
   "dependencies": {
-    "pg": "~0.12.3",
+    "pg": "~8.4.0",
     "underscore": "~1.4.4"
   },
   "devDependencies": {
